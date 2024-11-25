@@ -4,7 +4,7 @@
 
 These rules cover best practices, code structure, state management, performance optimization, and more for their respective domains.
 
-## Prompt
+## System Instructions
 
 Provides instructions for the agent to follow.
 

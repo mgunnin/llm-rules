@@ -1,0 +1,3 @@
+[submodule "assistants/openai_assistant_boilerplate"]
+	path = assistants/openai_assistant_boilerplate
+	url = https://github.com/ali-abassi/OpenAI_Assistant_API_Boilerplate_CursorRules
