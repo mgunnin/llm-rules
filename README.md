@@ -7,3 +7,7 @@ These rules cover best practices, code structure, state management, performance 
 ## Prompt
 
 Provides instructions for the agent to follow.
+
+## Resources
+
+Collection of Cursor Rules [Cursor Directory](https://cursor.directory/)
